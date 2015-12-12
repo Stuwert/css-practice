@@ -1,0 +1,9 @@
+{
+  "firebase": "sju-css-practice",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
